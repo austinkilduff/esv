@@ -38,7 +38,7 @@ Forked from [https://github.com/lukesmithxyz/kjv.git](https://github.com/lukesmi
 
 esv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/lukesmithxyz/kjv.git
+    git clone https://github.com/austinkilduff/esv.git
     cd esv
     sudo make install
 
